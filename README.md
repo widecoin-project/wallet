@@ -26,3 +26,8 @@ Mac: https://github.com/widecoin-project/wallet/raw/master/Electrum-Widecoin-wal
 Android 64bit: https://github.com/widecoin-project/wallet/raw/master/Electrum_WCN-4.1.2.0-arm64-v8a-release.apk
 
 Android 32bit: https://github.com/widecoin-project/wallet/raw/master/Electrum_WCN-4.1.2.0-armeabi-v7a-release.apk
+
+Third Party Wallet
+----------------
+
+Hebe(iOS,Android and Web Wallet): https://hebe.cc/wcn/wcn.html
