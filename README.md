@@ -30,4 +30,4 @@ Android 32bit: https://github.com/widecoin-project/wallet/raw/master/Electrum_WC
 Third Party Wallet
 ----------------
 
-Hebe(iOS,Android and Web Wallet): https://hebe.cc/wcn/wcn.html
+Hebe (iOS,Android and Web Wallet): https://hebe.cc/wcn/wcn.html
