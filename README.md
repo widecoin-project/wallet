@@ -3,7 +3,6 @@ Widecoin Wallet
 
 https://widecoin.org/#section-74
 
-
 Core Wallet
 ----------------
 [Linux](https://github.com/widecoin-project/wallet/raw/master/Widecoin-wallet-Linux-v1.1.0.zip)
