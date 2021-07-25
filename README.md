@@ -13,6 +13,4 @@ Lightweight Wallet
 Third Party Wallet
 ----------------
 
-Hebe (iOS,Android and Web Wallet): 
-
-https://hebe.cc/wcn/wcn.html
+Hebe (iOS,Android and Web Wallet): https://hebe.cc/wcn/wcn.html
