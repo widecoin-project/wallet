@@ -13,3 +13,7 @@ Third Party Wallet
 Hebe (iOS,Android and Web Wallet): 
 
 https://hebe.cc/wcn/wcn.html
+
+AtomicDEX-Desktop
+
+https://github.com/KomodoPlatform/atomicDEX-Desktop/releases/tag/0.5.2-beta
