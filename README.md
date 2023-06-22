@@ -1,4 +1,4 @@
-Note: There are some minor issues with the encrypted wallet in Core Wallet v.5.0.0. Please don't use this feature until it's fixed. but v2.0.0 (https://github.com/widecoin-project/widecoin-archiving-wallets) is okay to use an encrypted wallet. To be safe,  take a backup of your private key and your wallet before encrypting it.
+**Note:** There are some minor issues with the encrypted wallet in Core Wallet v.5.0.0. Please don't use this feature until it's fixed. but v2.0.0 (https://github.com/widecoin-project/widecoin-archiving-wallets) is okay to use an encrypted wallet. To be safe,  take a backup of your private key and your wallet before encrypting it.
 
 
 
