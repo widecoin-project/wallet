@@ -6,7 +6,7 @@ Widecoin Wallet
 ================
 Core Wallet
 ----------------
-[Linux](https://github.com/widecoin-project/wallet/raw/master/Widecoin-wallet-Linux-v4.0.0.zip) [Windows](https://github.com/widecoin-project/wallet/raw/master/Widecoin-wallet-Windows-v4.0.0.zip) [MacOS](https://github.com/widecoin-project/wallet/raw/master/Widecoin-wallet-MacOS-v4.0.0.zip) [Paper Wallet](https://widecoin.org/paper-wallet/index.html)
+[Linux](https://github.com/widecoin-project/wallet/raw/master/Widecoin-wallet-Linux-v5.1.0.zip) [Windows](https://github.com/widecoin-project/wallet/raw/master/Widecoin-wallet-Windows-v5.1.0.zip) [MacOS](https://github.com/widecoin-project/wallet/raw/master/Widecoin-wallet-MacOS-v5.1.0.zip) [Paper Wallet](https://widecoin.org/paper-wallet/index.html)
 
 Lightweight Wallet
 ----------------
