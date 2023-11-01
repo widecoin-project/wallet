@@ -1,4 +1,4 @@
-**Note:** Note: The encrypted wallet issue is fixed in Core Wallet v.5.1.0
+**Note:** The encrypted wallet issue is fixed in Core Wallet v.5.1.0
 
 
 
