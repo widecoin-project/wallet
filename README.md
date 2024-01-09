@@ -1,7 +1,3 @@
-**Note:** The encrypted wallet issue is fixed in Core Wallet v.5.1.0
-
-
-
 Widecoin Wallet
 ================
 Core Wallet
